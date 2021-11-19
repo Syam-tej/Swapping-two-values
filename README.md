@@ -18,20 +18,31 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-a=int(input())
-b=int(input())
+~~~
+a=int(input("Enter the first variable:"))
+b=int(input("Enter the second variable:"))
+print("Before swapping : \na=",a,"\nb=",b)
 t=b
 b=a
 a=t
-print(a)
-print(b)
+print("After swapping : \na=",a,"\nb=",b)
+~~~
 ## OUTPUT:
+Enter the first variable: 5
 
+Enter the second variable:6
 
+Before swapping : 
+
+a=5
+
+b=6
+
+After swapping :
+
+a=6
+
+b=5
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
-
-
-
-`
+Thus the swapping of two values are successfully executed.
