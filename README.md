@@ -28,21 +28,7 @@ a=t
 print("After swapping : \na=",a,"\nb=",b)
 ~~~
 ## OUTPUT:
-Enter the first variable: 5
-
-Enter the second variable:6
-
-Before swapping : 
-
-a=5
-
-b=6
-
-After swapping :
-
-a=6
-
-b=5
+![GitHub Logo](swap_sc.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
