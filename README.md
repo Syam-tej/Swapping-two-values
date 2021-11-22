@@ -28,7 +28,7 @@ a=t
 print("After swapping : \na=",a,"\nb=",b)
 ~~~
 ## OUTPUT:
-![GitHub Logo](swap_sc.png)
+![GitHub Logo](sc.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
